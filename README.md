@@ -8,20 +8,12 @@
 <!-- (optional) one-line intro — fill in or delete -->
 <!-- Builder of spec-driven AI workflows and quantitative trading systems. -->
 
+<!-- Stats hidden for now. To show them again, delete this line and the closing line below the two images.
 ## 📊 Stats
-
-<!-- ────────────────────────────────────────────────────────────────
-     These two images are generated automatically by the github-stats
-     GitHub Action, which runs in a separate repo: beomeodev/github-stats
-       • overview.svg   → All-time contributions, Lines of code changed,
-                          Repository views (all time)
-       • languages.svg  → Languages Used (By File Size)
-     Until that Action's first run finishes, the two lines below render
-     as broken images — that's expected. They come alive after setup.
-     ──────────────────────────────────────────────────────────────── -->
 
 ![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/overview.svg)
 ![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/languages.svg)
+-->
 
 ## 📂 Projects
 
