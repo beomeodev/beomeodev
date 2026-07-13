@@ -20,8 +20,8 @@
      as broken images — that's expected. They come alive after setup.
      ──────────────────────────────────────────────────────────────── -->
 
-![](https://raw.githubusercontent.com/beomeodev/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/beomeodev/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/overview.svg)
+![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/languages.svg)
 
 ## 📂 Projects
 
