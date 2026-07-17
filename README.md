@@ -1,14 +1,19 @@
-    ══════════════════════════════════════════════════════════════════
+<!-- ══════════════════════════════════════════════════════════════════
      beomeodev — GitHub Profile README
      Location on GitHub: a new repo named  beomeodev/beomeodev
-     ══════════════════════════════════════════════════════════════════ 
+     ══════════════════════════════════════════════════════════════════ -->
 
 # Hi, I'm beomeodev 👋
 
+<!-- (optional) one-line intro — fill in or delete -->
+<!-- Builder of spec-driven AI workflows and quantitative trading systems. -->
+
+<!-- Stats hidden for now. To show them again, delete this line and the closing line below the two images.
 ## 📊 Stats
 
 ![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/overview.svg)
 ![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/languages.svg)
+-->
 
 ## 📂 Projects
 
