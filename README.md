@@ -5,16 +5,6 @@
 
 # Hi, I'm beomeodev 👋
 
-<!-- (optional) one-line intro — fill in or delete -->
-<!-- Builder of spec-driven AI workflows and quantitative trading systems. -->
-
-<!-- Stats hidden for now. To show them again, delete this line and the closing line below the two images.
-## 📊 Stats
-
-![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/overview.svg)
-![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/languages.svg)
--->
-
 ## 📂 Projects
 
 | Project | Description |
@@ -29,3 +19,8 @@
 | cueline | Real-time assistant that captures spoken audio, transcribes it with live speech-to-text, detects the likely question, and retrieves the most relevant prewritten Markdown answer card via vector search — retrieval only, never generation. |
 | vent-cycle | macOS local automation that drives an apartment heat-recovery ventilator on a fixed duty cycle via one-shot headless-browser jobs, alerting through Telegram only on failure. |
 | comfort-note-revanced | YouTube patch adding a one-click control to capture video notes straight into an Obsidian vault as Markdown. |
+
+## 📊 Stats
+
+![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/overview.svg)
+![](https://raw.githubusercontent.com/beomeodev/github-stats/generated/languages.svg)
