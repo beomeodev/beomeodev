@@ -10,6 +10,9 @@
 | Project | Description |
 | --- | --- |
 | [specter](https://github.com/beomeodev/specter) | Personal Claude Code template for spec-driven AI development — PRD decomposition, gated specs, traceable implementation, and review automation. |
+| [cork-todo](https://github.com/beomeodev/cork-todo) | Cross-environment terminal todo CLI where one shared file is the single source of truth — a single static binary with zero runtime dependencies, offline only. |
+| [vent-cycle-htsystem](https://github.com/beomeodev/vent-cycle-htsystem) | macOS local automation that drives an apartment heat-recovery ventilator on a fixed duty cycle via one-shot headless-browser jobs, alerting through Telegram only on failure. |
+| [claude-dashboard-mac-vitals](https://github.com/beomeodev/claude-dashboard-mac-vitals) | Live macOS host CPU/RAM/swap/disk in the Claude Code status line, bridged from a container to the host through the shared ~/.claude drawer. |
 | spade-ace-backtester | Statistical backtester for a US-equity swing strategy (PSCO/DSCO/ATR) that decides — with falsifiable pass/fail criteria and an out-of-sample holdout — whether a tradable edge actually exists. |
 | gate | Personal local web app that runs the full discovery, evaluation, and monitoring cycle for a bottleneck-company satellite investing strategy. |
 | sanjunipero | Private family wealth dashboard unifying Korean/US equities, ETFs, bonds, gold, cash, real estate, and crypto to track net worth, volatility, and market-relative performance. |
@@ -17,9 +20,7 @@
 | atlas | AI-assisted PKM engine that maps thoughts into structured knowledge without altering the original notes (Python · Obsidian · Slack). |
 | suseonglm | AI-powered study space that unifies lecture materials, AI chat, and problem-solving inside per-subject notebooks (FastAPI · Next.js 15 · RAG · auto question generation). |
 | cueline | Real-time assistant that captures spoken audio, transcribes it with live speech-to-text, detects the likely question, and retrieves the most relevant prewritten Markdown answer card via vector search — retrieval only, never generation. |
-| [vent-cycle-htsystem](https://github.com/beomeodev/vent-cycle-htsystem) | macOS local automation that drives an apartment heat-recovery ventilator on a fixed duty cycle via one-shot headless-browser jobs, alerting through Telegram only on failure. |
 | comfort-note-revanced | YouTube patch adding a one-click control to capture video notes straight into an Obsidian vault as Markdown. |
-| [claude-dashboard-mac-vitals](https://github.com/beomeodev/claude-dashboard-mac-vitals) | Live macOS host CPU/RAM/swap/disk in the Claude Code status line, bridged from a container to the host through the shared ~/.claude drawer. |
 
 ## 📊 Stats
 
