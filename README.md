@@ -19,7 +19,7 @@
 | cueline | Real-time assistant that captures spoken audio, transcribes it with live speech-to-text, detects the likely question, and retrieves the most relevant prewritten Markdown answer card via vector search — retrieval only, never generation. |
 | [vent-cycle-htsystem](https://github.com/beomeodev/vent-cycle-htsystem) | macOS local automation that drives an apartment heat-recovery ventilator on a fixed duty cycle via one-shot headless-browser jobs, alerting through Telegram only on failure. |
 | comfort-note-revanced | YouTube patch adding a one-click control to capture video notes straight into an Obsidian vault as Markdown. |
-| [claude-vitals](https://github.com/beomeodev/claude-vitals) | Live macOS host CPU/RAM/swap/disk in the Claude Code status line, bridged from a container to the host through the shared ~/.claude drawer. |
+| [claude-dashboard-mac-vitals](https://github.com/beomeodev/claude-dashboard-mac-vitals) | Live macOS host CPU/RAM/swap/disk in the Claude Code status line, bridged from a container to the host through the shared ~/.claude drawer. |
 
 ## 📊 Stats
 
